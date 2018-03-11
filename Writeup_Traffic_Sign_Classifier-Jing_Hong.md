@@ -137,3 +137,7 @@ Below is the result of top five soft max probabilities of each images picked.
 Below is the visualization of the net work with 2nd convolution layer.
 
 ![alt text][image5] 
+
+### Suggest possible improvements
+I think the main improvment I need is not in the code itself, but a better understanding how the neural network works, how it can learn by itself to classify differnt features in different complexities in different layer. That will help me to improve my knowledge in how to select propriate techniques when designing the network in different application. I plan to spend more time to walk through the TensorFlow library to achieve this goal. It will be appreciated if some useful guilds or links can be provided by reviewer.
+
